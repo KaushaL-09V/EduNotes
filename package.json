@@ -31,7 +31,9 @@
     "mongoose": "^7.5.0",
     "morgan": "^1.10.0",
     "pdfkit": "^0.13.0",
-    "youtube-transcript": "^1.0.6"
+    "youtube-captions-scraper": "^2.0.3",
+    "youtube-transcript": "^1.2.1",
+    "youtube-transcript-plus": "^1.1.1"
   },
   "devDependencies": {
     "nodemon": "^3.1.10"
